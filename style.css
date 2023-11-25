@@ -26,13 +26,13 @@ header {
 
 /* Existing navigation menu styles */
 nav {
-    height: 30px; /* Adjust the height as needed */
-    font-size: 20px; /* Adjust the font size as needed */
+    height: 40px; /* Adjust the height as needed */
+    font-size: 25px; /* Adjust the font size as needed */
     text-align: left;
-    word-spacing: 80px;
-    padding: 20px; /* Adjust the padding as needed */
+    word-spacing: 100px;
+    padding: 25px; /* Adjust the padding as needed */
     background-color: #343a40;
-    font-family: Bebas Neue;
+    font-family: Arial;
     text-decoration: none;
 }
 
