@@ -25,12 +25,13 @@ header {
 
 /* Existing navigation menu styles */
 nav {
+    height: 80px; /* Adjust the height as needed */
+    font-size: 18px; /* Adjust the font size as needed */
     text-align: center;
     word-spacing: 30px;
-    padding: 50px;
+    padding: 20px; /* Adjust the padding as needed */
     background-color: #0F0701;
     font-family: 'Campione Neue Serif', serif;
-    text-decoration: none
 }
 
 /* Navigation bar link style */
