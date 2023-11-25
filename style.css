@@ -23,14 +23,6 @@ header {
     padding: 30px;
 }
 
-/* CSS code to style the image */
-.images/IMG_1640-style {
-    width: 50px; /* Adjust the width as needed */
-    height: auto; /* Automatically adjust the height while maintaining the aspect ratio */
-    border: 2px solid #000; /* Add a border if desired */
-    margin: 10px; /* Add margins to position the image */
-}
-
 /* Existing navigation menu styles */
 nav {
     height: 30px; /* Adjust the height as needed */
