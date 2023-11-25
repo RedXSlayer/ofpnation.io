@@ -1,7 +1,7 @@
 /* Reset default margin and set minimum height for html and body */
 html, body {
     margin: 0;
-    padding: 0;
+    padding: 5;
     min-height: 100%;
     height: 100%;
 }
@@ -29,8 +29,8 @@ nav {
     height: 30px; /* Adjust the height as needed */
     font-size: 20px; /* Adjust the font size as needed */
     text-align: left;
-    word-spacing: 70px;
-    padding: 0px; /* Adjust the padding as needed */
+    word-spacing: 80px;
+    padding: 20px; /* Adjust the padding as needed */
     background-color: #343a40;
     font-family: Bebas Neue;
     text-decoration: none;
