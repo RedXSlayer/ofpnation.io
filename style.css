@@ -51,3 +51,35 @@ nav {
     text-decoration: none;
     font-size: larger;
  }
+
+/* Footer styles */
+footer {
+    background-color: #343a40; /* Satin black background */
+    color: #ffffff; /* White text color for contrast */
+    text-align: center; /* Aligns the text to the center */
+    padding: 20px 0; /* 20 pixels of padding at the top and bottom */
+    position: relative; /* Position relative to the layout */
+    bottom: 0; /* Sticks to the bottom */
+    width: 100%; /* Full width */
+}
+
+/* Footer hyperlink styles */
+footer a {
+    color: #d1d1d1; /* Light grey color for the links for readability */
+    text-decoration: none; /* Removes underline from links */
+    margin: 0 10px; /* Spacing between links */
+    font-weight: bold; /* Makes the font bold */
+}
+
+/* Footer hyperlink hover effect */
+footer a:hover {
+    color: #ffffff; /* Changes color to white on hover */
+    text-decoration: underline; /* Adds underline on hover */
+}
+
+/* Contact information style */
+.footer-contact {
+    margin-top: 10px; /* Spacing above the contact information */
+    font-size: 0.9em; /* Slightly smaller font size for contact info */
+}
+
