@@ -25,11 +25,11 @@ header {
 
 /* Existing navigation menu styles */
 nav {
-    height: 30px; /* Adjust the height as needed */
-    font-size: 25px; /* Adjust the font size as needed */
-    text-align: center;
-    word-spacing: 50px;
-    padding: 20px; /* Adjust the padding as needed */
+    height: 40px; /* Adjust the height as needed */
+    font-size: 15px; /* Adjust the font size as needed */
+    text-align: left;
+    word-spacing: 40px;
+    padding: 30px; /* Adjust the padding as needed */
     background-color: #343a40;
     font-family: 'Campione Neue Serif', serif;
     text-decoration: none;
@@ -37,16 +37,16 @@ nav {
 
 /* Navigation bar link style */
 nav a {
-    color: #4b5320; /* Military brown color */
+    color: #ffffff; /* Military brown color */
     text-decoration: none;
 }
 
 
-/* Navigation bar link hover style */
+/* Navigation bar link hover style 
 nav a:hover {
-    color: #ffffff; /* White text on hover */
+    color: #ffffff; /* White text on hover 
     text-decoration: none;
-}
+} */
 
 /* Footer styles */
 footer {
