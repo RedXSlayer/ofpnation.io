@@ -47,10 +47,7 @@ nav {
  }
  /*navigation bar button style*/
  nav a {
-    color: #000000;
+    color: white;
     text-decoration: none;
     font-size: larger;
  }
-p {
-    color: white; /* This will apply to all <p> elements */
-}
