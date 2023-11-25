@@ -25,7 +25,7 @@ header {
 
 /* Existing navigation menu styles */
 nav {
-    height: 45px; /* Adjust the height as needed */
+    height: 30px; /* Adjust the height as needed */
     font-size: 20px; /* Adjust the font size as needed */
     text-align: center;
     word-spacing: 40px;
@@ -33,6 +33,7 @@ nav {
     background-color: #343a40;
     font-family: 'Campione Neue Serif', serif;
     text-decoration: none;
+    width: 100%; /* Full width */
 }
 
 /* Navigation bar link style */
