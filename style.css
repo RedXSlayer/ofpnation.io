@@ -27,7 +27,7 @@ body {
 
 /* Set the background image for the container */
 .container {
-    background-image: url('images/IMG_2820.heic'); /* image path */
+    background-image: url('images/IMG_2820.PNG'); /* image path */
     background-size: cover; /* Adjust the size of the background image */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent image repetition */
