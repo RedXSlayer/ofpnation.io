@@ -34,12 +34,11 @@ nav {
 
 /* Navigation bar link style */
 nav a {
-    color: #4b5320; /* Military brown color */
-    text-decoration: none;
+    color: #4b5320 !important; /* Military brown color */
+    text-decoration: none !important;
     font-size: larger;
     transition: color 0.3s; /* Smooth transition for hover effect */
 }
-
 /* Navigation bar link hover style */
 nav a:hover {
     color: #ffffff; /* White text on hover */
