@@ -27,7 +27,7 @@ header {
 nav {
     text-align: center;
     word-spacing: 30px;
-    padding: 10px;
+    padding: 50px;
     background-color: #0F0701;
     font-family: 'Campione Neue Serif', serif;
 }
@@ -36,6 +36,8 @@ nav {
 nav a {
     color: #4b5320; /* Military brown color */
 }
+
+
 /* Navigation bar link hover style */
 nav a:hover {
     color: #ffffff; /* White text on hover */
