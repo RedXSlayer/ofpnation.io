@@ -26,10 +26,23 @@ header {
 /* Existing navigation menu styles */
 nav {
     text-align: center;
-    word-spacing: 50px;
-    padding: 30px;
+    word-spacing: 30px;
+    padding: 10px;
     background-color: #46494A;
-    font-family: 'Campione Neue Serif', serif; /* Ensure the font family is properly quoted */
+    font-family: 'Campione Neue Serif', serif;
+}
+
+/* Navigation bar link style */
+nav a {
+    color: #4b5320; /* Military brown color */
+    text-decoration: none;
+    font-size: larger;
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+/* Navigation bar link hover style */
+nav a:hover {
+    color: #ffffff; /* White text on hover */
 }
 
 /* ... rest of your existing CSS ... */
