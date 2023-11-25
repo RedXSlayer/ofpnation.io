@@ -24,7 +24,7 @@ header {
 }
 
 /* CSS code to style the image */
-.image-style {
+.images/IMG_1640-style {
     width: 100px; /* Adjust the width as needed */
     height: auto; /* Automatically adjust the height while maintaining the aspect ratio */
     border: 2px solid #000; /* Add a border if desired */
