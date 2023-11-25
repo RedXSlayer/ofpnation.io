@@ -30,17 +30,20 @@ nav {
     padding: 50px;
     background-color: #0F0701;
     font-family: 'Campione Neue Serif', serif;
+    text-decoration: none
 }
 
 /* Navigation bar link style */
 nav a {
     color: #4b5320; /* Military brown color */
+    text-decoration: none
 }
 
 
 /* Navigation bar link hover style */
 nav a:hover {
     color: #ffffff; /* White text on hover */
+    text-decoration: none
 }
 
 /* Footer styles */
