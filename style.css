@@ -25,27 +25,6 @@ body {
     flex: 1;
 }
 
-/* Set the background image for the container */
-.container {
-    background-image: url('images/IMG_2820.PNG'); /* image path */
-    background-size: cover; /* Adjust the size of the background image */
-    background-position: center; /* Center the background image */
-    background-repeat: no-repeat; /* Prevent image repetition */
-    height: 100vh; /* Set the height of the container to cover the viewport */
-    color: #ffffff; /* Text color on top of the background */
-    text-align: center;
-    padding: 100px; /* Adjust padding as needed to position the text */
-}
-
-/* Style the text elements */
-.container h1 {
-    font-size: 36px;
-    margin-bottom: 20px;
-}
-
-.container p {
-    font-size: 18px;
-}
 
 
 /* Existing header styles */
