@@ -20,14 +20,14 @@ body {
 /* Existing header styles */
 header {
     text-align: center; 
-    padding: 20px;
+    padding: 30px;
 }
 
 /* Existing navigation menu styles */
 nav {
     text-align: center;
-    word-spacing: 30px;
-    padding: 10px;
+    word-spacing: 50px;
+    padding: 30px;
     background-color: #46494A;
     font-family: 'Campione Neue Serif', serif; /* Ensure the font family is properly quoted */
 }
@@ -39,7 +39,7 @@ footer {
     background-color: #343a40; /* Satin black background */
     color: #d1d1d1; /* White text color for contrast */
     text-align: center; /* Aligns the text to the center */
-    padding: 20px 0; /* 20 pixels of padding at the top and bottom */
+    padding: 30px 0; /* 20 pixels of padding at the top and bottom */
     width: 100%; /* Full width */
 }
 
