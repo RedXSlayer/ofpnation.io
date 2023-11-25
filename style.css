@@ -20,7 +20,8 @@ body {
 /* Existing header styles */
 header {
     text-align: center; 
-    padding: 30px;
+    padding: 0px;
+    width: 100%;
 }
 
 /* Existing navigation menu styles */
