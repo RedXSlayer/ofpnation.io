@@ -42,11 +42,11 @@ nav a {
 }
 
 
-/* Navigation bar link hover style 
+/* Navigation bar link hover style */
 nav a:hover {
-    color: #ffffff; /* White text on hover 
-    text-decoration: none;
-} */
+    color: #ffffff; /* White text on hover */
+    text-decoration: underline;
+} 
 
 /* Footer styles */
 footer {
