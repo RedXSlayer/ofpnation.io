@@ -36,11 +36,11 @@ header {
 
 /* Existing navigation menu styles */
 nav {
-    height: 30px; /* Adjust the height as needed */
+    height: 35px; /* Adjust the height as needed */
     font-size: 25px; /* Adjust the font size as needed */
     text-align: left;
-    word-spacing: 100px;
-    padding: 25px; /* Adjust the padding as needed */
+    word-spacing: 150px;
+    padding: 30px; /* Adjust the padding as needed */
     background-color: #343a40;
     font-family: Arial;
     text-decoration: none;
